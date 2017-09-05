@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/teknisyen"
+        android:title="@string/teknisyen"
+        android:iconTint="@color/white"
+        app:itemTextColor="@color/white"
+        />
+
+    <item
+        android:id="@+id/aktifgorev"
+        android:title="@string/aktifgorev"
+        android:iconTint="@color/white"
+        app:itemTextColor="@color/white"
+        />
+
+    <item
+        android:id="@+id/gorevata"
+        android:title="@string/gorevata"
+        android:iconTint="@color/white"
+        app:itemTextColor="@color/white"
+        />
+</menu>

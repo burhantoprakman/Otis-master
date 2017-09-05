@@ -1,0 +1,9 @@
+<resources xmlns:color="http://schemas.android.com/tools">
+    <string name="app_name">Otis</string>
+    <string name="hint"><font size="12">Kullanıcı Adı</font></string>
+    <string name="hint1"><font size="12">Şifre</font></string>
+    <string name="teknisyen"><font style="bold" size="18">Teknisyen</font></string>
+    <string name="gorevata"><font style="bold" size="18">Görev Ata</font></string>
+    <string name="aktifgorev"><font style="bold" size="18">Aktif Görev</font></string>
+
+</resources>
